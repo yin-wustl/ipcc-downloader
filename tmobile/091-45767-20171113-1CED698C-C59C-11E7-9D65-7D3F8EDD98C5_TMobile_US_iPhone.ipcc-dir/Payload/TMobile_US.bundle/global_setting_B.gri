@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>ICE</key>
+	<dict>	
+		<key>GRI Revision</key>
+		<string>0.155.12</string>
+	</dict>
+    	<key>COMMENT</key>
+        <string>NA LTE Band Regulation</string>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[0].mcc</key>
+		   <integer>302</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[0].lte_band_mask_1_32</key>
+		  <integer>0x3101185a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[0].lte_band_mask_33_64</key>
+		  <integer>0x00000120</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[1].mcc</key>
+		   <integer>310</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[1].lte_band_mask_1_32</key>
+		  <integer>0x370118da</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[1].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	    	  <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[2].mcc</key>
+		   <integer>311</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[2].lte_band_mask_1_32</key>
+		  <integer>0x3701185a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[2].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[3].mcc</key>
+		   <integer>312</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[3].lte_band_mask_1_32</key>
+		  <integer>0x3701181a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[3].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[4].mcc</key>
+		   <integer>313</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[4].lte_band_mask_1_32</key>
+		  <integer>0x3701181a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[4].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[5].mcc</key>
+		   <integer>314</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[5].lte_band_mask_1_32</key>
+		  <integer>0x3701181a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[5].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[6].mcc</key>
+		   <integer>315</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[6].lte_band_mask_1_32</key>
+		  <integer>0x3701181a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[6].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[7].mcc</key>
+		   <integer>316</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[7].lte_band_mask_1_32</key>
+		  <integer>0x3701181a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[7].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[8].mcc</key>
+		   <integer>330</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[8].lte_band_mask_1_32</key>
+		  <integer>0x3701189a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[8].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[9].mcc</key>
+		   <integer>334</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[9].lte_band_mask_1_32</key>
+		  <integer>0x0000000a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[9].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+                  
+                   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[24].mcc</key>
+		   <integer>338</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[24].lte_band_mask_1_32</key>
+		  <integer>0x0001105c</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[24].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+                   
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[10].mcc</key>
+		   <integer>340</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[10].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[10].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		 
+                   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[25].mcc</key>
+		   <integer>342</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[25].lte_band_mask_1_32</key>
+		  <integer>0x00011008</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[25].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+                    
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[11].mcc</key>
+		   <integer>344</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[11].lte_band_mask_1_32</key>
+		  <integer>0x00011018</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[11].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[12].mcc</key>
+		   <integer>346</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[12].lte_band_mask_1_32</key>
+		  <integer>0x00011006</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[12].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[26].mcc</key>
+		   <integer>348</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[26].lte_band_mask_1_32</key>
+		  <integer>0x00011040</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[26].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+                  
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[13].mcc</key>
+		   <integer>350</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[13].lte_band_mask_1_32</key>
+		  <integer>0x0001181b</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[13].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[14].mcc</key>
+		   <integer>352</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[14].lte_band_mask_1_32</key>
+		  <integer>0x00010097</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[14].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[15].mcc</key>
+		   <integer>356</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[15].lte_band_mask_1_32</key>
+		  <integer>0x00011000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[15].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[16].mcc</key>
+		   <integer>358</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[16].lte_band_mask_1_32</key>
+		  <integer>0x00011000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[16].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[17].mcc</key>
+		   <integer>360</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[17].lte_band_mask_1_32</key>
+		  <integer>0x00011000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[17].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[27].mcc</key>
+		   <integer>362</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[27].lte_band_mask_1_32</key>
+		  <integer>0x00000014</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[27].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[18].mcc</key>
+		   <integer>363</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[18].lte_band_mask_1_32</key>
+		  <integer>0x00000014</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[18].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].mcc</key>
+		   <integer>364</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].lte_band_mask_1_32</key>
+		  <integer>0x00011009</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[20].mcc</key>
+		   <integer>365</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[20].lte_band_mask_1_32</key>
+		  <integer>0x00001092</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[20].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[21].mcc</key>
+		   <integer>370</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[21].lte_band_mask_1_32</key>
+		  <integer>0x0000008e</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[21].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[28].mcc</key>
+		   <integer>372</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[28].lte_band_mask_1_32</key>
+		  <integer>0x08013854</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[28].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[22].mcc</key>
+		   <integer>374</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[22].lte_band_mask_1_32</key>
+		  <integer>0x00011002</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[22].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[23].mcc</key>
+		   <integer>376</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[23].lte_band_mask_1_32</key>
+		  <integer>0x00011000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[23].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	
+	<key>COMMENT</key>
+        <string>ASIA LTE Band Regulation</string>
+			
+	           <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[0].mcc</key>
+		   <integer>400</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[0].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[0].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[1].mcc</key>
+		   <integer>401</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[1].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[1].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	    	  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[2].mcc</key>
+		   <integer>402</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[2].lte_band_mask_1_32</key>
+		  <integer>0x08000004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[2].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[3].mcc</key>
+		   <integer>404</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[3].lte_band_mask_1_32</key>
+		  <integer>0x00000095</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[3].lte_band_mask_33_64</key>
+		  <integer>0x00000180</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[4].mcc</key>
+		   <integer>405</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[4].lte_band_mask_1_32</key>
+		  <integer>0x00000095</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[4].lte_band_mask_33_64</key>
+		  <integer>0x00000180</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[5].mcc</key>
+		   <integer>410</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[5].lte_band_mask_1_32</key>
+		  <integer>0x00000014</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[5].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	
+		
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].mcc</key>
+                   <integer>412</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].lte_band_mask_1_32</key>
+                  <integer>0x00000004</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[6].mcc</key>
+		   <integer>413</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[6].lte_band_mask_1_32</key>
+		  <integer>0x00000004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[6].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[37].mcc</key>
+                   <integer>414</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[37].lte_band_mask_1_32</key>
+                  <integer>0x00000085</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[37].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+
+	  	   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[7].mcc</key>
+		   <integer>415</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[7].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[7].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[8].mcc</key>
+		   <integer>416</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[8].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[8].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		 
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[33].mcc</key>
+		   <integer>418</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[33].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[33].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+                  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[9].mcc</key>
+		   <integer>419</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[9].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[9].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[10].mcc</key>
+		   <integer>420</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[10].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[10].lte_band_mask_33_64</key>
+		  <integer>0x000001a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[11].mcc</key>
+		   <integer>422</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[11].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[11].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[12].mcc</key>
+		   <integer>424</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[12].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[12].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[13].mcc</key>
+		   <integer>425</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[13].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[13].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[14].mcc</key>
+		   <integer>426</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[14].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[14].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[15].mcc</key>
+		   <integer>427</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[15].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[15].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+		    <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[38].mcc</key>
+                   <integer>428</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[38].lte_band_mask_1_32</key>
+                  <integer>0x08000004</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[38].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[16].mcc</key>
+		   <integer>430</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[16].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[16].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[17].mcc</key>
+		   <integer>431</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[17].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[17].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[34].mcc</key>
+		   <integer>432</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[34].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[34].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[18].mcc</key>
+		   <integer>434</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[18].lte_band_mask_1_32</key>
+		  <integer>0x080810c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[18].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[19].mcc</key>
+		   <integer>436</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[19].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[19].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[20].mcc</key>
+		   <integer>437</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[20].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[20].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[21].mcc</key>
+		   <integer>438</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[21].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[21].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[22].mcc</key>
+		   <integer>440</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[22].lte_band_mask_1_32</key>
+		  <integer>0x0a160485</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[22].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[23].mcc</key>
+		   <integer>441</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[23].lte_band_mask_1_32</key>
+		  <integer>0x0a160485</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[23].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[24].mcc</key>
+		   <integer>450</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[24].lte_band_mask_1_32</key>
+		  <integer>0x0a0000d5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[24].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].mcc</key>
+                   <integer>452</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].lte_band_mask_1_32</key>
+                  <integer>0x00000044</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[25].mcc</key>
+		   <integer>454</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[25].lte_band_mask_1_32</key>
+		  <integer>0x000000c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[25].lte_band_mask_33_64</key>
+		  <integer>0x00000080</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[35].mcc</key>
+		   <integer>455</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[35].lte_band_mask_1_32</key>
+		  <integer>0x00000045</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[35].lte_band_mask_33_64</key>
+		  <integer>0x00000080</integer>	
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].mcc</key>
+		   <integer>456</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].lte_band_mask_1_32</key>
+		  <integer>0x00000014</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[27].mcc</key>
+		   <integer>457</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[27].lte_band_mask_1_32</key>
+		  <integer>0x00000044</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[27].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[28].mcc</key>
+		   <integer>460</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[28].lte_band_mask_1_32</key>
+		  <integer>0x00000095</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[28].lte_band_mask_33_64</key>
+		  <integer>0x000001e0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[29].mcc</key>
+		   <integer>461</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[29].lte_band_mask_1_32</key>
+		  <integer>0x00000095</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[29].lte_band_mask_33_64</key>
+		  <integer>0x000001e0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[30].mcc</key>
+		   <integer>466</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[30].lte_band_mask_1_32</key>
+		  <integer>0x080000c4</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[30].lte_band_mask_33_64</key>
+		  <integer>0x00000120</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[31].mcc</key>
+		   <integer>470</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[31].lte_band_mask_1_32</key>
+		  <integer>0x00080040</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[31].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].mcc</key>
+		   <integer>472</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].lte_band_mask_1_32</key>
+		  <integer>0x00000045</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[40].mcc</key>
+		   <integer>417</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[40].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[40].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+                  <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[41].mcc</key>
+		   <integer>429</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[41].lte_band_mask_1_32</key>
+		  <integer>0x00000004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[41].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+			  
+	<key>COMMENT</key>
+	<string>EU LTE Band Regulation</string>
+			
+	           <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[0].mcc</key>
+		   <integer>202</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[0].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[0].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[1].mcc</key>
+		   <integer>204</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[1].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[1].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	    	  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[2].mcc</key>
+		   <integer>206</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[2].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[2].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[3].mcc</key>
+		   <integer>208</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[3].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[3].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[4].mcc</key>
+		   <integer>212</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[4].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[4].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[5].mcc</key>
+		   <integer>214</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[5].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[5].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[6].mcc</key>
+		   <integer>216</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[6].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[6].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[7].mcc</key>
+		   <integer>218</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[7].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[7].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[8].mcc</key>
+		   <integer>219</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[8].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[8].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[9].mcc</key>
+		   <integer>220</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[9].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[9].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[10].mcc</key>
+		   <integer>222</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[10].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[10].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[11].mcc</key>
+		   <integer>226</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[11].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[11].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[12].mcc</key>
+		   <integer>228</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[12].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[12].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[13].mcc</key>
+		   <integer>230</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[13].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[13].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>		  
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[14].mcc</key>
+		   <integer>231</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[14].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[14].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[15].mcc</key>
+		   <integer>232</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[15].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[15].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[16].mcc</key>
+		   <integer>234</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[16].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[16].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[17].mcc</key>
+		   <integer>238</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[17].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[17].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[18].mcc</key>
+		   <integer>240</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[18].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[18].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[19].mcc</key>
+		   <integer>242</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[19].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[19].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[20].mcc</key>
+		   <integer>244</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[20].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[20].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[21].mcc</key>
+		   <integer>246</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[21].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[21].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[22].mcc</key>
+		   <integer>247</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[22].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[22].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[23].mcc</key>
+		   <integer>248</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[23].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[23].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[24].mcc</key>
+		   <integer>250</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[24].lte_band_mask_1_32</key>
+		  <integer>0x00080044</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[24].lte_band_mask_33_64</key>
+		  <integer>0x00000060</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[25].mcc</key>
+		   <integer>257</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[25].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[25].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[26].mcc</key>
+		   <integer>259</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[26].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[26].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[27].mcc</key>
+		   <integer>260</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[27].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[27].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[28].mcc</key>
+		   <integer>262</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[28].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[28].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[29].mcc</key>
+		   <integer>268</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[29].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[29].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[30].mcc</key>
+		   <integer>270</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[30].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[30].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[31].mcc</key>
+		   <integer>272</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[31].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[31].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[32].mcc</key>
+		   <integer>274</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[32].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[32].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[33].mcc</key>
+		   <integer>278</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[33].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[33].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[34].mcc</key>
+		   <integer>280</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[34].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[34].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[35].mcc</key>
+		   <integer>283</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[35].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[35].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[36].mcc</key>
+		   <integer>284</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[36].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[36].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[37].mcc</key>
+		   <integer>286</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[37].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[37].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[38].mcc</key>
+		   <integer>293</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[38].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[38].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[39].mcc</key>
+		   <integer>294</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[39].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[39].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[40].mcc</key>
+		   <integer>295</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[40].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[40].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[41].mcc</key>
+		   <integer>297</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[41].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[41].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[42].mcc</key>
+		   <integer>213</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[42].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[42].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[43].mcc</key>
+		   <integer>235</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[43].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[43].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[44].mcc</key>
+		  <integer>255</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[44].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[44].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[45].mcc</key>
+		   <integer>266</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[45].lte_band_mask_1_32</key>
+		  <integer>0x000800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[45].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[46].mcc</key>
+		   <integer>276</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[46].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[46].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[47].mcc</key>
+		   <integer>283</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[47].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[47].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[48].mcc</key>
+		  <integer>288</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[48].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[48].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[49].mcc</key>
+		  <integer>290</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[49].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[49].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[50].mcc</key>
+		  <integer>282</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[50].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[50].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[51].mcc</key>
+		  <integer>289</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[51].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.eu_lte_regulatory_table[51].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+				  	 
+	<key>COMMENT</key>
+	<string>LA LTE Band Regulation</string>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[18].mcc</key>
+		   <integer>702</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[18].lte_band_mask_1_32</key>
+		  <integer>0x00001012</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[18].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+			
+	           <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[0].mcc</key>
+		   <integer>704</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[0].lte_band_mask_1_32</key>
+		  <integer>0x0000005a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[0].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                  <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[14].mcc</key>
+		   <integer>706</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[14].lte_band_mask_1_32</key>
+		  <integer>0x00000093</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[14].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[1].mcc</key>
+		   <integer>708</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[1].lte_band_mask_1_32</key>
+		  <integer>0x00000018</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[1].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[15].mcc</key>
+		   <integer>710</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[15].lte_band_mask_1_32</key>
+		  <integer>0x0800000a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[15].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	    	  <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[2].mcc</key>
+		   <integer>712</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[2].lte_band_mask_1_32</key>
+		  <integer>0x00000054</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[2].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[3].mcc</key>
+		   <integer>714</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[3].lte_band_mask_1_32</key>
+		  <integer>0x08011002</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[3].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[4].mcc</key>
+		   <integer>716</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[4].lte_band_mask_1_32</key>
+		  <integer>0x0800009a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[4].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[5].mcc</key>
+		   <integer>722</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[5].lte_band_mask_1_32</key>
+		  <integer>0x08011008</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[5].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[6].mcc</key>
+		   <integer>724</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[6].lte_band_mask_1_32</key>
+		  <integer>0x080000d7</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[6].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[7].mcc</key>
+		   <integer>730</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[7].lte_band_mask_1_32</key>
+		  <integer>0x08000048</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[7].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[8].mcc</key>
+		   <integer>732</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[8].lte_band_mask_1_32</key>
+		  <integer>0x080000da</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[8].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[9].mcc</key>
+		   <integer>734</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[9].lte_band_mask_1_32</key>
+		  <integer>0x0000004c</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[9].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[10].mcc</key>
+		   <integer>736</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[10].lte_band_mask_1_32</key>
+		  <integer>0x0001101f</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[10].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[11].mcc</key>
+		   <integer>740</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[11].lte_band_mask_1_32</key>
+		  <integer>0x0801124a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[11].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[12].mcc</key>
+		   <integer>744</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[12].lte_band_mask_1_32</key>
+		  <integer>0x080000da</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[12].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[13].mcc</key>
+		   <integer>748</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[13].lte_band_mask_1_32</key>
+		  <integer>0x0801109a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[13].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].mcc</key>
+		   <integer>738</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].lte_band_mask_1_32</key>
+		  <integer>0x00010004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[17].mcc</key>
+		   <integer>746</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[17].lte_band_mask_1_32</key>
+		  <integer>0x08000004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[17].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                  <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[19].mcc</key>
+		   <integer>750</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[19].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[19].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+	<key>COMMENT</key>
+	<string>AFRICA LTE Band Regulation</string>
+			
+	           <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[0].mcc</key>
+		   <integer>602</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[0].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[0].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[1].mcc</key>
+		   <integer>603</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[1].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[1].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	    	  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[2].mcc</key>
+		   <integer>612</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[2].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[2].lte_band_mask_33_64</key>
+		  <integer>0x000001a0</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[3].mcc</key>
+		   <integer>617</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[3].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[3].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[4].mcc</key>
+		   <integer>621</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[4].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[4].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[5].mcc</key>
+		   <integer>631</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[5].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[5].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[6].mcc</key>
+		   <integer>640</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[6].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[6].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[7].mcc</key>
+		   <integer>641</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[7].lte_band_mask_1_32</key>
+		  <integer>0x080800d5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[7].lte_band_mask_33_64</key>
+		  <integer>0x000001a0</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[8].mcc</key>
+		   <integer>645</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[8].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[8].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[9].mcc</key>
+		   <integer>647</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[9].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[9].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[10].mcc</key>
+		   <integer>648</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[10].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[10].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[11].mcc</key>
+		   <integer>649</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[11].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[11].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[12].mcc</key>
+		   <integer>655</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[12].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[12].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[13].mcc</key>
+		   <integer>604</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[13].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[13].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[14].mcc</key>
+		   <integer>605</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[14].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[14].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[15].mcc</key>
+		   <integer>606</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[15].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[15].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[16].mcc</key>
+		   <integer>607</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[16].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[16].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[17].mcc</key>
+		   <integer>608</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[17].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[17].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[18].mcc</key>
+		   <integer>609</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[18].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[18].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[19].mcc</key>
+		   <integer>610</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[19].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[19].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		     <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[20].mcc</key>
+		   <integer>611</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[20].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[20].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		     <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[21].mcc</key>
+		   <integer>613</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[21].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[21].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[22].mcc</key>
+		   <integer>614</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[22].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[22].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[23].mcc</key>
+		   <integer>615</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[23].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[23].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[24].mcc</key>
+		   <integer>616</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[24].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[24].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[25].mcc</key>
+		   <integer>618</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[25].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[25].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[26].mcc</key>
+		   <integer>619</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[26].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[26].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[27].mcc</key>
+		   <integer>620</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[27].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[27].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[28].mcc</key>
+		   <integer>622</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[28].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[28].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[29].mcc</key>
+		   <integer>623</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[29].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[29].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[30].mcc</key>
+		   <integer>624</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[30].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[30].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[31].mcc</key>
+		   <integer>627</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[31].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[31].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[32].mcc</key>
+		   <integer>628</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[32].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[32].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[33].mcc</key>
+		   <integer>629</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[33].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[33].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[34].mcc</key>
+		   <integer>630</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[34].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[34].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[35].mcc</key>
+		   <integer>632</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[35].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[35].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[36].mcc</key>
+		   <integer>633</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[36].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[36].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[47].mcc</key>
+		   <integer>634</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[47].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[47].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[37].mcc</key>
+		   <integer>635</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[37].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[37].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+                   		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[38].mcc</key>
+		   <integer>637</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[38].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[38].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[39].mcc</key>
+		   <integer>639</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[39].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[39].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[40].mcc</key>
+		   <integer>642</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[40].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[40].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[41].mcc</key>
+		   <integer>643</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[41].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[41].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[42].mcc</key>
+		   <integer>646</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[42].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[42].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[43].mcc</key>
+		   <integer>650</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[43].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[43].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[44].mcc</key>
+		   <integer>651</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[44].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[44].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[45].mcc</key>
+		   <integer>652</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[45].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[45].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[46].mcc</key>
+		   <integer>653</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[46].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[46].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+                  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[48].mcc</key>
+		   <integer>658</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[48].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[48].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+                  <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[49].mcc</key>
+		   <integer>636</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[49].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.africa_lte_regulatory_table[49].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+
+	<key>COMMENT</key>
+	<string>OCEAN LTE Band Regulation</string>
+			
+	           <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[0].mcc</key>
+		   <integer>502</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[0].lte_band_mask_1_32</key>
+		  <integer>0x000000d5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[0].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[1].mcc</key>
+		   <integer>505</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[1].lte_band_mask_1_32</key>
+		  <integer>0x080000d5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[1].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+                   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[10].mcc</key>
+		   <integer>510</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[10].lte_band_mask_1_32</key>
+		  <integer>0x00000095</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[10].lte_band_mask_33_64</key>
+		  <integer>0x00000080</integer>
+	  
+	    	  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[2].mcc</key>
+		   <integer>515</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[2].lte_band_mask_1_32</key>
+		  <integer>0x080000d7</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[2].lte_band_mask_33_64</key>
+		  <integer>0x000001a0</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[3].mcc</key>
+		   <integer>520</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[3].lte_band_mask_1_32</key>
+		  <integer>0x00000095</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[3].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	           <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[4].mcc</key>
+		   <integer>525</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[4].lte_band_mask_1_32</key>
+		  <integer>0x000000c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[4].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[5].mcc</key>
+		   <integer>528</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[5].lte_band_mask_1_32</key>
+		  <integer>0x00000004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[5].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[6].mcc</key>
+		   <integer>530</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[6].lte_band_mask_1_32</key>
+		  <integer>0x080000d5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[6].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+	  
+	  	   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[7].mcc</key>
+		   <integer>537</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[7].lte_band_mask_1_32</key>
+		  <integer>0x08000014</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[7].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                 <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[15].mcc</key>
+                  <integer>539</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[15].lte_band_mask_1_32</key>
+                  <integer>0x00000004</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[15].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[16].mcc</key>
+                  <integer>540</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[16].lte_band_mask_1_32</key>
+                  <integer>0x08080085</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[16].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+	  
+	          <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].mcc</key>
+		   <integer>541</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].lte_band_mask_1_32</key>
+		  <integer>0x00000000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].lte_band_mask_33_64</key>
+		  <integer>0x00000080</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[9].mcc</key>
+		   <integer>542</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[9].lte_band_mask_1_32</key>
+		  <integer>0x08080004</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[9].lte_band_mask_33_64</key>
+		  <integer>0x00000000</integer>
+
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[17].mcc</key>
+                  <integer>543</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[17].lte_band_mask_1_32</key>
+                  <integer>0x00000080</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[17].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+		  
+		    <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[11].mcc</key>
+		   <integer>544</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[11].lte_band_mask_1_32</key>
+		  <integer>0x3701181a</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[11].lte_band_mask_33_64</key>
+		  <integer>0x00000100</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[12].mcc</key>
+		   <integer>546</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[12].lte_band_mask_1_32</key>
+		  <integer>0x000800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[12].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[13].mcc</key>
+		   <integer>547</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[13].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[13].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+		  
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[14].mcc</key>
+		  <integer>548</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[14].lte_band_mask_1_32</key>
+		  <integer>0x080000d5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[14].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[18].mcc</key>
+		  <integer>549</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[18].lte_band_mask_1_32</key>
+		  <integer>0x080800c5</integer>
+		  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[18].lte_band_mask_33_64</key>
+		  <integer>0x000000a0</integer>
+                
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[19].mcc</key>
+                  <integer>551</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[19].lte_band_mask_1_32</key>
+                  <integer>0x08000000</integer>
+                  <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[19].lte_band_mask_33_64</key>
+                  <integer>0x00000000</integer>
+		  
+	<key>COMMENT</key>	  
+	<string>LTE Band Per PLMN</string>
+			
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[0].mcc</key>
+		   <integer>440</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[0].mnc</key>
+		   <integer>50</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[0].lte_band_mask_1_32</key>
+		   <integer>0x08020001</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[0].lte_band_mask_33_64</key>
+		   <integer>0x00000100</integer>
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[1].mcc</key>
+		   <integer>440</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[1].mnc</key>
+		   <integer>51</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[1].lte_band_mask_1_32</key>
+		   <integer>0x08020001</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[1].lte_band_mask_33_64</key>
+		   <integer>0x00000100</integer>	
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[2].mcc</key>
+		   <integer>310</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[2].mnc</key>
+		   <integer>410</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[2].lte_band_mask_1_32</key>
+		   <integer>0x3001081A</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[2].lte_band_mask_33_64</key>
+		   <integer>0x00000000</integer>	
+		   
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[3].mcc</key>
+		   <integer>311</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[3].mnc</key>
+		   <integer>180</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[3].lte_band_mask_1_32</key>
+		   <integer>0x2001081A</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[3].lte_band_mask_33_64</key>
+		   <integer>0x00000000</integer>	
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[4].mcc</key>
+		   <integer>460</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[4].mnc</key>
+		   <integer>0</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[4].lte_band_mask_1_32</key>
+		   <integer>0x00000000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[4].lte_band_mask_33_64</key>
+		   <integer>0x000001E0</integer>	
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[5].mcc</key>
+		   <integer>460</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[5].mnc</key>
+		   <integer>02</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[5].lte_band_mask_1_32</key>
+		   <integer>0x00000000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[5].lte_band_mask_33_64</key>
+		   <integer>0x000001E0</integer>	
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[6].mcc</key>
+		   <integer>460</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[6].mnc</key>
+		   <integer>07</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[6].lte_band_mask_1_32</key>
+		   <integer>0x00000000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[6].lte_band_mask_33_64</key>
+		   <integer>0x000001E0</integer>	
+		   
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[7].mcc</key>
+		   <integer>460</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[7].mnc</key>
+		   <integer>08</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[7].lte_band_mask_1_32</key>
+		   <integer>0x00000000</integer>
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[7].lte_band_mask_33_64</key>
+		   <integer>0x000001E0</integer>	
+
+		   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[8].mcc</key>
+                   <integer>454</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[8].mnc</key>
+                   <integer>06</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[8].lte_band_mask_1_32</key>
+                   <integer>0x000000C5</integer>
+                   <key>dyn_csi_cps_gri.gri_nvm.lte_band_per_plmn[8].lte_band_mask_33_64</key>
+                   <integer>0x00000080</integer>
+
+	<key>COMMENT</key>
+	<string>LTE Regulatory table based on PLMN</string>
+	
+		 <key>dyn_csi_cps_gri.gri_nvm.lte_regulatory_table_per_plmn[0].mcc</key>
+		 <integer>311</integer>
+		 
+		 <key>dyn_csi_cps_gri.gri_nvm.lte_regulatory_table_per_plmn[0].mnc</key>
+		 <integer>40</integer>
+		   
+		 <key>dyn_csi_cps_gri.gri_nvm.lte_regulatory_table_per_plmn[0].lte_band_mask_1_32</key>
+		 <integer>0x3701185a</integer>
+		 
+		 <key>dyn_csi_cps_gri.gri_nvm.lte_regulatory_table_per_plmn[0].lte_band_mask_33_64</key>
+		 <integer>0x00000100</integer>
+		  
+</dict>
+</plist>
